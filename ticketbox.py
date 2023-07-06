@@ -11,10 +11,8 @@ from typing import Tuple
 from time import sleep
 
 # login info
-mail = "phongtran13122000@gmail.com"
-password = "X9EH3_wm_yapfPh"
-name = "Trần Hải Phong"
-phone_number = "0795212000"
+mail = "abcxyz@gmail.com"
+password = "abc123"
 
 # time to start program
 begin_time = time(12,00)
